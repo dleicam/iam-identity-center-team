@@ -1,5 +1,5 @@
 # Temporary elevated access management (TEAM) for AWS IAM Identity Center
-This repository contains the source code for deploying TEAM application.
+This repository contains the source code for deploying TEAM application. 1
 
 TEAM is an open source solution that integrates with AWS IAM Identity Center and allows you to manage and monitor, time-bound elevated access to your multi-account AWS environment at scale.
 
